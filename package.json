@@ -1,0 +1,23 @@
+{
+  "name": "jesttesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cloneArray.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xlan11/jestTesting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xlan11/jestTesting/issues"
+  },
+  "homepage": "https://github.com/xlan11/jestTesting#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
